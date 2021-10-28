@@ -1,4 +1,4 @@
-# G_Snake小游戏
+# Greedy_Snake——大二汇编的贪吃蛇小游戏
 
 ## Get started
 
